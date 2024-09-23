@@ -1,0 +1,36 @@
+
+body
+{
+    background-image:url("image/wow.jpg");
+    background-position:top center;
+    background-size: cover;
+}
+
+h1
+{
+    color:white;
+    font-family : "Aria" "Helvetica";
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+table
+{
+    border-width: 2px;
+    border-style: solid;
+    border-color:navy;
+    text-align:left;
+    margin:auto;
+}
+td, th
+{
+    border-width: 2px;
+    border-style: solid;
+    border-color:navy;
+    text-align:left;
+
+}
+footer
+{
+    text-align:center
+}
